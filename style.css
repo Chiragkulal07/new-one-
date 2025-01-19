@@ -1,0 +1,31 @@
+
+.container{
+    width:250px;
+    height: 150px;
+    background-color: aqua;
+    padding: 20px;
+    border-radius: 20px;
+    background-image: url('chiragc.jpg');
+
+}
+body{
+    display:flex;
+    flex-direction: column;
+    
+    background-color: brown;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+    background-image: url('chiragb.jpg');
+    
+}
+.item{
+    margin: 10px;
+    color: beige;
+}
+h1{
+    position: absolute;
+    top: 5px;
+    color: azure;
+
+}
